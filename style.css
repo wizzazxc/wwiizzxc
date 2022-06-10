@@ -1,0 +1,38 @@
+body{
+	background: #C71585;
+}
+.color{
+	color:#FFF;
+}
+h3{
+	font-size: 33px;
+	color: #4B0082;
+}
+
+.content{
+	display: flex;
+	gap:30px;
+
+}
+.true,.false{
+		display: flex;
+		gap:15px;
+
+
+
+}
+label{
+
+	color: #FFFF00;
+	font-size: 20px;
+}
+h2{
+	font-size: 33px;
+	color: #FF0000;
+
+}
+
+
+
+
+
